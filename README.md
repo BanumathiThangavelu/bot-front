@@ -58,7 +58,7 @@ export default tseslint.config({
 ```bash
 git clone https://github.com/BanumathiThangavelu/bot-front.git
 
-cd Rimes-Ui
+cd bot-front
 ```
 
 ### 2. Run
